@@ -85,6 +85,18 @@
         "Led technical design, performance and security improvements, coding, debugging, testing, and production support."
       ],
       "images": []
+    },
+    {
+      "title": "Medical Report Summarizer and Diet Recommendation Platform",
+      "summary": "Participated in and led an internal hackathon project that used OpenAI to summarize medical reports and generate diet recommendations.",
+      "url": "",
+      "highlights": [
+        "Built support for uploading PDF reports, processing scanned documents, and accepting report content as text.",
+        "Sent extracted report content to OpenAI and displayed the generated summary in the application.",
+        "Developed a Python-based diet recommendation workflow based on the report content.",
+        "Migrated the solution to ASP.NET and C# for enterprise application integration."
+      ],
+      "images": []
     }
   ],
   "volunteer_experience": [],
