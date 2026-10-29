@@ -78,7 +78,7 @@
                   {% endif %}
                   {% if contact.phone %}
                     <li>
-                      <a href="tel:+{{ contact.phone | replace('-', '') }}">{{ contact.phone }}</a>
+                      <a href="tel:{{ contact.phone | replace('-', '') }}">{{ contact.phone }}</a>
                     </li>
                   {% endif %}
                   {% if contact.location %}<li>{{ contact.location }}</li>{% endif %}
