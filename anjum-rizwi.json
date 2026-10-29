@@ -7,7 +7,7 @@
     "phone": "",
     "location": "Bangalore, IN"
   },
-  "summary": "Programming educator on YouTube. Simplifying complex concepts into manageable steps to help learners digest material at their own pace.",
+  "summary": "Associate Software Architect and Senior Technical Leader with nearly 15 years of experience in application architecture, software design and development, project management, performance, security, and Agile delivery.",
   "url": "https://anjumrizwi.github.io/",
   "social_links": [
     {
@@ -38,121 +38,146 @@
   ],
   "work_experience": [
     {
-      "company": "LASP (Labratory for Atmospheric and Space Physics)",
-      "position": "Software Engineer",
-      "url": "https://lasp.colorado.edu/",
-      "start_date": "2015",
-      "end_date": "2019",
-      "summary": "",
+      "company": "Valtech India System, Bangalore",
+      "position": "Senior Technical Leader",
+      "url": "https://www.valtech.com/en-in/",
+      "start_date": "2009",
+      "end_date": "2026",
+      "summary": "Progressed from Lead Engineer to Senior Technical Leader.",
       "highlights": [
-        "Created and maintained back-end API services using Flask.",
-        "Created system administration scripts using Python to automate the processing and deployment of mission-critical data.",
-        "Tasked with migrating in-house data pipelines to a cloud-based solution using AWS."
+        "Supervised architectural and design specifications, translating business requirements into technical models and developer-level specifications.",
+        "Designed and built custom solution elements, including application architecture, database design, performance, security, and integration requirements.",
+        "Provided technical leadership for Agile Scrum teams, including task breakdown, estimation, code review, and delivery management.",
+        "Worked with ASP.NET, C#, VB.NET, SQL Server, WCF, Web Services, JavaScript, jQuery, AngularJS, BackboneJS, Entity Framework, SSIS, and reporting technologies.",
+        "Implemented continuous integration, automated unit testing, TDD, load testing, profiling, production debugging, and application performance improvements."
       ]
     },
     {
-      "company": "WVU GIS Technical Center",
-      "position": "Software Engineer",
-      "url": "https://wvgis.wvu.edu/",
-      "start_date": "2012",
-      "end_date": "2015",
+      "company": "Cognizant (First Advantage), ITPL, Bangalore",
+      "position": "Senior Software Engineer",
+      "url": "https://fadv.com/india/",
+      "start_date": "2007",
+      "end_date": "2008",
       "summary": "",
       "highlights": [
-        "Developed and designed GIS web applications with the ArcGIS JavaScript API",
-        "Wrote and published geoprocessing services using Python and ArcPy",
-        "Created backend user authentication systems with PHP and MySQL"
+        "Designed, developed, tested, troubleshot, and debugged enterprise applications.",
+        "Participated in requirements analysis, technical specifications, customer interaction, and delivery of software improvements."
       ]
     },
     {
-      "company": "MATRIC (Mid-Atlantic Technology, Research, and Innovation Center)",
-      "position": "Software Engineer",
-      "url": "https://www.matricinnovates.com/",
-      "start_date": "2010",
-      "end_date": "2011",
+      "company": "Meta Option, Delhi",
+      "position": "Project Leader",
+      "url": "https://www.metaoption.com/",
+      "start_date": "2005",
+      "end_date": "2007",
       "summary": "",
       "highlights": [
-        "Created GIS web applications with ActionScript and the ArcGIS API for Flex.",
-        "Developed custom widgets for routing, wind data visualization, and simulations.",
-        "Wrote and maintained SQL-based queries to efficiently retrieve and analyze data from GIS REST services."
+        "Led project execution and guided application design, development, testing, and delivery activities.",
+        "Managed technical implementation and coordinated development work across project teams."
+      ]
+    },
+    {
+      "company": "EnovationSoft, Delhi",
+      "position": "Software Engineer",
+      "url": "",
+      "start_date": "2002",
+      "end_date": "2005",
+      "summary": "",
+      "highlights": [
+        "Developed and maintained software applications using Microsoft web and database technologies.",
+        "Contributed to coding, debugging, database development, and application delivery."
       ]
     }
   ],
   "projects": [
     {
-      "title": "Educational Content Creator on YouTube",
-      "summary": "Channel focused on creating tutorials and walkthroughs for software developers, programmers, and engineers.",
-      "url": "https://youtube.com/c/coreyms",
-      "highlights": ["Over 1 million subscribers", "Over 100 million views"],
-      "images": [
-        {
-          "img_path": "portfolio_media/yt1.png",
-          "caption": "Main Channel"
-        },
-        {
-          "img_path": "portfolio_media/yt2.png",
-          "caption": "Tutorials"
-        },
-        {
-          "img_path": "portfolio_media/yt3.png",
-          "caption": "Live Streams"
-        }
-      ]
+      "title": "Enterprise Application Architecture and Delivery",
+      "summary": "Designed and delivered enterprise web applications, eCommerce platforms, booking systems, payment integrations, reporting solutions, and administrative portals.",
+      "url": "",
+      "highlights": [
+        "Architected distributed applications using ASP.NET, Web Services, WCF, SQL Server, and modern web technologies.",
+        "Integrated payment gateways, booking engines, reporting services, address lookup, and delinquency phone-call services.",
+        "Led technical design, performance and security improvements, coding, debugging, testing, and production support."
+      ],
+      "images": []
     }
   ],
-  "volunteer_experience": [
-    {
-      "organization": "Heritage Point Assisted Living",
-      "position": "Computer Assistance",
-      "url": "https://www.heritage-point.com/",
-      "start_date": "2012",
-      "end_date": "2015",
-      "summary": "Helped residents with any computer problems for two hours each week. Mainly helped with networking, typing, basic instruction, and troubleshooting.",
-      "highlights": []
-    },
-    {
-      "organization": "Marshall University",
-      "position": "Student Ambassador",
-      "url": "https://marshall.edu",
-      "start_date": "2007",
-      "end_date": "2008",
-      "summary": "Gave campus tours, organized promotional events, and ran summer orientation.",
-      "highlights": []
-    }
-  ],
+  "volunteer_experience": [],
   "education": [
     {
-      "institution": "Marshall University",
-      "location": "Hungington, WV, USA",
-      "url": "https://marshall.edu",
+      "institution": "Indira Gandhi National Open University (IGNOU)",
+      "location": "Delhi, India",
+      "url": "",
       "degrees": [
-        "Bachelor of Science in Computer Science",
-        "Minor in Mathematics"
+        "Master of Computer Applications"
       ],
-      "honors": [
-        "2010 Outstanding Student Award",
-        "2005 R.L. “Buck” Woodall Student-Athlete scholarship",
-        "Placed in a District ACM ICPC Team Programming Contest"
+      "honors": [],
+      "gpa_cumulative": "",
+      "gpa_major": "",
+      "graduation_date": ""
+    },
+    {
+      "institution": "Priyadarshini Multimedia Training Institute",
+      "location": "Delhi, India",
+      "url": "",
+      "degrees": [
+        "Post Graduate Diploma in Computer Applications"
       ],
-      "gpa_cumulative": "3.29",
-      "gpa_major": "3.93",
-      "graduation_date": "2010"
+      "honors": [],
+      "gpa_cumulative": "",
+      "gpa_major": "",
+      "graduation_date": ""
+    },
+    {
+      "institution": "T.M. Bhagalpur University",
+      "location": "Bhagalpur, Bihar, India",
+      "url": "",
+      "degrees": [
+        "Bachelor of Arts"
+      ],
+      "honors": [],
+      "gpa_cumulative": "",
+      "gpa_major": "",
+      "graduation_date": ""
     }
+  ],
+  "certifications": [
+    "Microsoft Certified Solution Developer (MCSD)",
+    "Certified Scrum Master (CSM)",
+    "Microsoft Certified Professional (MCP)",
+    "Microsoft Certified Technology Specialist (MCTS)",
+    "Microsoft Specialist (MS)"
   ],
   "skills": [
     {
-      "name": "Python, Flask, Django",
+      "name": "ASP.NET, C#, VB.NET, MVC, Web Forms",
       "proficiency": 100,
       "proficiency_label": "Expert"
     },
     {
-      "name": "System Administration, Linux",
+      "name": "SQL Server, SSIS, SSRS, Oracle",
+      "proficiency": 95,
+      "proficiency_label": "Advanced"
+    },
+    {
+      "name": "JavaScript, jQuery, AngularJS, BackboneJS, HTML, CSS, Bootstrap",
       "proficiency": 90,
       "proficiency_label": "Advanced"
     },
     {
-      "name": "JavaScript, HTML, CSS",
+      "name": "Web Services, WCF, REST, Entity Framework, NHibernate",
+      "proficiency": 90,
+      "proficiency_label": "Advanced"
+    },
+    {
+      "name": "Agile Scrum, TDD, NUnit, CI/CD, Git, TFS, SVN",
+      "proficiency": 90,
+      "proficiency_label": "Advanced"
+    },
+    {
+      "name": "ASP, VB6, PHP, MySQL, Ruby on Rails",
       "proficiency": 75,
-      "proficiency_label": "Comfortable"
+      "proficiency_label": "Proficient"
     }
   ],
   "interests": [
