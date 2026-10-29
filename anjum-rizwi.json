@@ -215,6 +215,19 @@
       ]
     }
   ],
-  "languages": ["English", "Hindi", "Urdu"],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Known"
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Known"
+    },
+    {
+      "language": "Urdu",
+      "fluency": "Known"
+    }
+  ],
   "references": []
 }
