@@ -1,30 +1,15 @@
 {
   "name": "Anjum Rizwi",
-  "label": "Associate Software Architect",
+  "label": "Associate Technical Architect",
   "image_path": "portfolio_media/profile.jpg",
   "contact": {
     "email": "anjumrizwi@gmail.com",
     "phone": "",
     "location": "Bangalore, IN"
   },
-  "summary": "Associate Software Architect and Senior Technical Leader with nearly 15 years of experience in application architecture, software design and development, project management, performance, security, and Agile delivery.",
+  "summary": "Associate Technical Architect with nearly 20+ years of experience in application architecture, software design and development, project management, performance, security, and Agile delivery.",
   "url": "https://anjumrizwi.github.io/",
   "social_links": [
-    {
-      "label": "AnjumRizwi.github.io",
-      "url": "https://anjumrizwi.github.io/",
-      "svg_path": "img/globe.svg"
-    },
-    {
-      "label": "YouTube",
-      "url": "https://youtube.com/c/coreyms",
-      "svg_path": "img/youtube.svg"
-    },
-    {
-      "label": "Instagram",
-      "url": "https://www.instagram.com/coreymschafer",
-      "svg_path": "img/instagram.svg"
-    },
     {
       "label": "Github",
       "url": "https://github.com/anjumrizwi",
@@ -39,11 +24,11 @@
   "work_experience": [
     {
       "company": "Valtech India System, Bangalore",
-      "position": "Senior Technical Leader",
+      "position": "Associate Technical Architect",
       "url": "https://www.valtech.com/en-in/",
       "start_date": "2009",
       "end_date": "2026",
-      "summary": "Progressed from Lead Engineer to Senior Technical Leader.",
+      "summary": "Progressed from Lead Engineer to Associate Technical Architect.",
       "highlights": [
         "Supervised architectural and design specifications, translating business requirements into technical models and developer-level specifications.",
         "Designed and built custom solution elements, including application architecture, database design, performance, security, and integration requirements.",
@@ -100,6 +85,19 @@
         "Led technical design, performance and security improvements, coding, debugging, testing, and production support."
       ],
       "images": []
+    },
+    {
+      "title": "Medical Report Summarizer and Diet Recommendation Platform",
+      "summary": "Led an internal hackathon project demonstrating practical AI engineering with OpenAI-powered medical report summarization and personalized diet recommendations.",
+      "url": "",
+      "highlights": [
+        "Applied generative AI and OpenAI integration to transform unstructured medical report content into clear, actionable summaries.",
+        "Built support for uploading PDF reports, processing scanned documents, and accepting report content as text.",
+        "Sent extracted report content to OpenAI and displayed the generated summary in the application.",
+        "Developed a Python-based diet recommendation workflow based on the report content.",
+        "Migrated the solution to ASP.NET and C# for enterprise application integration."
+      ],
+      "images": []
     }
   ],
   "volunteer_experience": [],
@@ -142,6 +140,7 @@
     }
   ],
   "certifications": [
+    "Microsoft Certified: Azure Administrator Associate",
     "Microsoft Certified Solution Developer (MCSD)",
     "Certified Scrum Master (CSM)",
     "Microsoft Certified Professional (MCP)",
@@ -165,17 +164,37 @@
       "proficiency_label": "Advanced"
     },
     {
-      "name": "Web Services, WCF, REST, Entity Framework, NHibernate",
+      "name": "Microservices, Web Services, WCF, REST, Entity Framework, NHibernate",
       "proficiency": 90,
       "proficiency_label": "Advanced"
     },
     {
-      "name": "Agile Scrum, TDD, NUnit, CI/CD, Git, TFS, SVN",
+      "name": "DevOps, Agile Scrum, TDD, NUnit, CI/CD, Git, TFS, SVN",
       "proficiency": 90,
       "proficiency_label": "Advanced"
     },
     {
       "name": "ASP, VB6, PHP, MySQL, Ruby on Rails",
+      "proficiency": 75,
+      "proficiency_label": "Proficient"
+    },
+    {
+      "name": "Artificial Intelligence and Generative AI",
+      "proficiency": 85,
+      "proficiency_label": "Advanced"
+    },
+    {
+      "name": "Agentic AI and Autonomous Workflows",
+      "proficiency": 80,
+      "proficiency_label": "Advanced"
+    },
+    {
+      "name": "OpenAI API Integration",
+      "proficiency": 80,
+      "proficiency_label": "Advanced"
+    },
+    {
+      "name": "Claude and Anthropic API Integration",
       "proficiency": 75,
       "proficiency_label": "Proficient"
     }
@@ -196,6 +215,6 @@
       ]
     }
   ],
-  "languages": [],
+  "languages": ["English", "Hindi"],
   "references": []
 }
