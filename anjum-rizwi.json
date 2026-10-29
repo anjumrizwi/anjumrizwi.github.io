@@ -7,7 +7,7 @@
     "phone": "",
     "location": "Bangalore, IN"
   },
-  "summary": "Associate Software Architect and Senior Technical Leader with nearly 15 years of experience in application architecture, software design and development, project management, performance, security, and Agile delivery.",
+  "summary": "Associate Software Architect and technical leader with nearly 15 years of experience in application architecture, software design and development, project management, performance, security, and Agile delivery.",
   "url": "https://anjumrizwi.github.io/",
   "social_links": [
     {
@@ -39,11 +39,11 @@
   "work_experience": [
     {
       "company": "Valtech India System, Bangalore",
-      "position": "Senior Technical Leader",
+      "position": "Associate Technical Architect",
       "url": "https://www.valtech.com/en-in/",
       "start_date": "2009",
       "end_date": "2026",
-      "summary": "Progressed from Lead Engineer to Senior Technical Leader.",
+      "summary": "Progressed from Lead Engineer to Associate Technical Architect.",
       "highlights": [
         "Supervised architectural and design specifications, translating business requirements into technical models and developer-level specifications.",
         "Designed and built custom solution elements, including application architecture, database design, performance, security, and integration requirements.",
