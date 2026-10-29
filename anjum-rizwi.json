@@ -140,12 +140,66 @@
     }
   ],
   "certifications": [
-    "Microsoft Certified: Azure Administrator Associate",
-    "Microsoft Certified Solution Developer (MCSD)",
-    "Certified Scrum Master (CSM)",
-    "Microsoft Certified Professional (MCP)",
-    "Microsoft Certified Technology Specialist (MCTS)",
-    "Microsoft Specialist (MS)"
+    {
+      "name": "Labs: OnAir May '26 - Use MCP Tools with ADK Agents",
+      "logo": "https://cdn.simpleicons.org/anthropic",
+      "certified_by": "Anthropic"
+    },
+    {
+      "name": "Certificate of Completion: Introduction to Agent Skills",
+      "logo": "https://cdn.simpleicons.org/anthropic",
+      "certified_by": "Anthropic"
+    },
+    {
+      "name": "AI Tools Workshop",
+      "logo": "https://cdn.simpleicons.org/be10x",
+      "certified_by": "Be10x"
+    },
+    {
+      "name": "Cloud Architect",
+      "logo": "https://cdn.simpleicons.org/simplilearn",
+      "certified_by": "Simplilearn"
+    },
+    {
+      "name": "AWS Solutions Architect Associate Level",
+      "logo": "https://cdn.simpleicons.org/amazonaws",
+      "certified_by": "Simplilearn"
+    },
+    {
+      "name": "PMP Certification Training Course",
+      "logo": "https://cdn.simpleicons.org/simplilearn",
+      "certified_by": "Simplilearn"
+    },
+    {
+      "name": "MCSD: App Builder - Certified 2016",
+      "logo": "https://cdn.simpleicons.org/microsoft",
+      "certified_by": "Microsoft"
+    },
+    {
+      "name": "MS: Programming in HTML5 with JavaScript and CSS3",
+      "logo": "https://cdn.simpleicons.org/microsoft",
+      "certified_by": "Microsoft"
+    },
+    {
+      "name": "MCPS: Microsoft Certified Professional",
+      "logo": "https://cdn.simpleicons.org/microsoft",
+      "certified_by": "Microsoft"
+    },
+    {
+      "name": "MCTS: .NET Framework 4, Web Applications",
+      "logo": "https://cdn.simpleicons.org/microsoft",
+      "certified_by": "Microsoft"
+    },
+    {
+      "name": "Microsoft Certified: Azure Administrator Associate",
+      "logo": "https://cdn.simpleicons.org/microsoft",
+      "certified_by": "Microsoft"
+    },
+    {
+      "name": "Certified Scrum Master",
+      "logo": "https://cdn.simpleicons.org/scrumalliance",
+      "certified_by": "Scrum Alliance"
+    }
   ],
   "skills": [
     {

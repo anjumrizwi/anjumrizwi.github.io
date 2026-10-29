@@ -254,6 +254,28 @@
             </section>
           {% endif %}
 
+          {% if certifications %}
+            <section>
+              <h2 class="section-heading">Licenses &amp; Certifications</h2>
+              <ul class="unstyled-list">
+                {% for certification in certifications %}
+                  <li>
+                    <div class="flex-responsive">
+                      <img width="40"
+                           height="40"
+                           src="{{ certification.logo }}"
+                           alt="{{ certification.certified_by }} logo">
+                      <div>
+                        <h3>{{ certification.name }}</h3>
+                        <p class="section-label">Certified by {{ certification.certified_by }}</p>
+                      </div>
+                    </div>
+                  </li>
+                {% endfor %}
+              </ul>
+            </section>
+          {% endif %}
+
           {% if skills %}
             <section>
               <h2 class="section-heading">Skills</h2>
