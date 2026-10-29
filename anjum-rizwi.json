@@ -4,7 +4,7 @@
   "image_path": "portfolio_media/profile.jpg",
   "contact": {
     "email": "anjumrizwi@gmail.com",
-    "phone": "",
+    "phone": "+91-9902933622",
     "location": "Bangalore, IN"
   },
   "summary": "Associate Technical Architect with nearly 20+ years of experience in application architecture, software design and development, project management, performance, security, and Agile delivery.",
@@ -18,7 +18,7 @@
     {
       "label": "LinkdIn",
       "url": "https://www.linkedin.com/in/anjumrizwi/",
-      "svg_path": "img/github.svg"
+      "svg_path": "img/linkedin.svg"
     }
   ],
   "work_experience": [
@@ -181,17 +181,17 @@
     {
       "name": "Artificial Intelligence and Generative AI",
       "proficiency": 85,
-      "proficiency_label": "Advanced"
+      "proficiency_label": "Proficient"
     },
     {
       "name": "Agentic AI and Autonomous Workflows",
       "proficiency": 80,
-      "proficiency_label": "Advanced"
+      "proficiency_label": "Proficient"
     },
     {
       "name": "OpenAI API Integration",
       "proficiency": 80,
-      "proficiency_label": "Advanced"
+      "proficiency_label": "Proficient"
     },
     {
       "name": "Claude and Anthropic API Integration",
