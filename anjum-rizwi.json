@@ -79,18 +79,7 @@
   ],
   "projects": [
     {
-      "title": "Enterprise Application Architecture and Delivery",
-      "summary": "Designed and delivered enterprise web applications, eCommerce platforms, booking systems, payment integrations, reporting solutions, and administrative portals.",
-      "url": "",
-      "highlights": [
-        "Architected distributed applications using ASP.NET, Web Services, WCF, SQL Server, and modern web technologies.",
-        "Integrated payment gateways, booking engines, reporting services, address lookup, and delinquency phone-call services.",
-        "Led technical design, performance and security improvements, coding, debugging, testing, and production support."
-      ],
-      "images": []
-    },
-    {
-      "title": "OwnerSite",
+      "title": "members.holidayinnclub.com",
       "summary": "Reservation booking, account management, dashboard, resort, and call-centre agent platform for Holiday Inn Club Vacations.",
       "url": "https://members.holidayinnclub.com/",
       "highlights": [
@@ -123,7 +112,7 @@
       "images": []
     },
     {
-      "title": "VSCUK (B2C)",
+      "title": "uk.voyages-sncf.com",
       "summary": "Online European rail ticket booking platform with payments, route maps, destination guides, and DotNetNuke content management.",
       "url": "http://uk.voyages-sncf.com",
       "highlights": [
@@ -145,7 +134,7 @@
       "images": []
     },
     {
-      "title": "Public (B2C)",
+      "title": "raileurope.co.uk",
       "summary": "Online European rail booking system with payment, point-to-point and pass-ticket booking, destination guides, and route maps.",
       "url": "https://www.raileurope.co.uk",
       "highlights": [
