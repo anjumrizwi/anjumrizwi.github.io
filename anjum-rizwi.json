@@ -34,6 +34,8 @@
         "Designed and built custom solution elements, including application architecture, database design, performance, security, and integration requirements.",
         "Provided technical leadership for Agile Scrum teams, including task breakdown, estimation, code review, and delivery management.",
         "Worked with ASP.NET, C#, VB.NET, SQL Server, WCF, Web Services, JavaScript, jQuery, AngularJS, BackboneJS, Entity Framework, SSIS, and reporting technologies.",
+        "Worked with CMS platforms including Sitecore for two years and DotNetNuke(now known as DNN Platform) for five years.",
+        "Delivered Azure-native solutions and implemented DevOps practices covering CI/CD, automation, cloud deployment, monitoring, and production support.",
         "Implemented continuous integration, automated unit testing, TDD, load testing, profiling, production debugging, and application performance improvements.",
         "Received the Quality of Excellence Work Award from the Rail Europe client in August 2010.",
         "Received the Spark Award from the Project Manager in June 2009.",
@@ -83,7 +85,7 @@
       "summary": "Reservation booking, account management, dashboard, resort, and call-centre agent platform for Holiday Inn Club Vacations.",
       "url": "https://members.holidayinnclub.com/",
       "highlights": [
-        "Client: OrangeLake, US | Role: Developer - Agile Scrum | Team: 10+ | Duration: 2 months.",
+        "Client: OrangeLake, US | Role: Developer - Agile Scrum | Team: 10+ | Duration: 6 years.",
         "Environment: ASP.NET 4.5.2, C#, SQL Server 2012, JavaScript, ExtJS, Ruby on Rails, and SSIS.",
         "Maintained and enhanced performance, security, UI, coding, debugging, code reviews, stored procedures, estimation, deployment, unit testing, and team mentoring."
       ],
@@ -180,9 +182,9 @@
     {
       "title": "TexMex: SLIM",
       "summary": "Automated student loan processing system managing lenders, guarantors, file generation, and bank processing.",
-      "url": "",
+      "url": "http://nmstudentloans.org",
       "highlights": [
-        "Client: nmstudentloans.org, US | Role: Technical Architect - Agile Scrum | Team: 12 | Duration: 8 months.",
+        "Client: nmstudentloans.org, US | Role: Technical Lead - Agile Scrum | Team: 12 | Duration: 8 months.",
         "Environment: ASP.NET, C#, WCF, MVC, Log4Net, SQL Server 2005, hMailServer, Ajax Control Toolkit, FxCop, NAnt, JavaScript, and TDD.",
         "Designed technical solutions and supported automated processing workflows for approved and denied lenders and guarantor file exchange."
       ],
