@@ -34,7 +34,10 @@
         "Designed and built custom solution elements, including application architecture, database design, performance, security, and integration requirements.",
         "Provided technical leadership for Agile Scrum teams, including task breakdown, estimation, code review, and delivery management.",
         "Worked with ASP.NET, C#, VB.NET, SQL Server, WCF, Web Services, JavaScript, jQuery, AngularJS, BackboneJS, Entity Framework, SSIS, and reporting technologies.",
-        "Implemented continuous integration, automated unit testing, TDD, load testing, profiling, production debugging, and application performance improvements."
+        "Implemented continuous integration, automated unit testing, TDD, load testing, profiling, production debugging, and application performance improvements.",
+        "Received the Quality of Excellence Work Award from the Rail Europe client in August 2010.",
+        "Received the Spark Award from the Project Manager in June 2009.",
+        "Received an Appreciation of Work Award from the Valtech France COO in October 2009."
       ]
     },
     {
@@ -89,11 +92,11 @@
   ],
   "volunteer_experience": [
     {
-      "organization": "Internal Hackathon",
+      "organization": "Valtech Internal Hackathon - AI Engineering",
       "position": "Medical Report Summarizer and Diet Recommendation Platform",
       "url": "",
-      "start_date": "",
-      "end_date": "",
+      "start_date": "May 2025",
+      "end_date": "Aug 2025",
       "summary": "Led an internal hackathon project demonstrating practical AI engineering with OpenAI-powered medical report summarization and personalized diet recommendations.",
       "highlights": [
         "Applied generative AI and OpenAI integration to transform unstructured medical report content into clear, actionable summaries.",
