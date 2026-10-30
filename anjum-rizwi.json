@@ -88,6 +88,204 @@
         "Led technical design, performance and security improvements, coding, debugging, testing, and production support."
       ],
       "images": []
+    },
+    {
+      "title": "OwnerSite",
+      "summary": "Reservation booking, account management, dashboard, resort, and call-centre agent platform for Holiday Inn Club Vacations.",
+      "url": "https://members.holidayinnclub.com/",
+      "highlights": [
+        "Client: OrangeLake, US | Role: Developer - Agile Scrum | Team: 10+ | Duration: 2 months.",
+        "Environment: ASP.NET 4.5.2, C#, SQL Server 2012, JavaScript, ExtJS, Ruby on Rails, and SSIS.",
+        "Maintained and enhanced performance, security, UI, coding, debugging, code reviews, stored procedures, estimation, deployment, unit testing, and team mentoring."
+      ],
+      "images": []
+    },
+    {
+      "title": "FarEast Hospitality Website",
+      "summary": "Multilingual hotel branding website with booking redirects, dashboards, and reporting management.",
+      "url": "https://www.fareasthospitality.com/en",
+      "highlights": [
+        "Client: FarEast Hospitality, Malaysia | Role: Consultant - Agile Scrum | Team: 6+ | Duration: 18 months.",
+        "Environment: Sitecore 9.3, ASP.NET 4.5.2, C#, SQL Server 2016, JavaScript, and CSS.",
+        "Delivered component design, performance and security improvements, code reviews, optimization, deployment, unit testing, and defect resolution."
+      ],
+      "images": []
+    },
+    {
+      "title": "L'Oréal Brand - APAC and Global",
+      "summary": "Multilingual global product branding platform supporting product purchase redirects, dashboards, and reporting.",
+      "url": "",
+      "highlights": [
+        "Client: L'Oréal, APAC | Role: Consultant - Agile Scrum | Team: 10+ | Duration: 12 months.",
+        "Environment: Sitecore 9.3, ASP.NET 4.5.2, C#, SQL Server 2016, JavaScript, and CSS.",
+        "Contributed to component design, solution management, client interaction, code quality, performance, security, deployment, mentoring, and defect resolution."
+      ],
+      "images": []
+    },
+    {
+      "title": "VSCUK (B2C)",
+      "summary": "Online European rail ticket booking platform with payments, route maps, destination guides, and DotNetNuke content management.",
+      "url": "http://uk.voyages-sncf.com",
+      "highlights": [
+        "Client: Voyages-SNCF, UK | Role: Technical Architect - Agile Scrum | Team: 10 | Duration: 8 months.",
+        "Environment: ASP.NET 4.5.2, C#, MVC, MVP, WCF, SQL Server 2008, DotNetNuke, Google Maps, JavaScript, jQuery, XML/XSLT, TDD, and Akamai CDN.",
+        "Owned architecture, performance, security, database, UI, coding, code reviews, requirements, sprint planning, testing, mentoring, and client interaction."
+      ],
+      "images": []
+    },
+    {
+      "title": "QK Enhanced",
+      "summary": "Childcare management product supporting enrolment, waitlists, portfolios, curriculum planning, family management, and kiosk workflows.",
+      "url": "https://www.qkenhanced.com.au",
+      "highlights": [
+        "Client: QK Technologies, Australia | Role: Technical Architect - Agile Scrum | Team: 10 | Duration: 1 year.",
+        "Environment: ASP.NET MVC 5, C#, HTML5, WCF, NHibernate, Fluent NHibernate, Entity Framework 5, SQL Server, JavaScript, jQuery, BackboneJS, AngularJS, Google Maps, AutoMapper, and ELMAH.",
+        "Led module architecture, database and UI design, coding, code quality, requirements, estimation, solution management, client interaction, and team mentoring."
+      ],
+      "images": []
+    },
+    {
+      "title": "Public (B2C)",
+      "summary": "Online European rail booking system with payment, point-to-point and pass-ticket booking, destination guides, and route maps.",
+      "url": "https://www.raileurope.co.uk",
+      "highlights": [
+        "Client: Rail Europe, UK | Role: Technical Architect - Agile Scrum | Team: 10 | Duration: 48 months.",
+        "Environment: ASP.NET 4.5.1, C#, MVC, MVP, WCF, SQL Server 2008 R2, DotNetNuke, Google Maps, JavaScript, jQuery, XML/XSLT, and TDD.",
+        "Designed architecture, performance, security, database, UI, SSIS packages, code quality, testing, reporting data flows, mentoring, and client delivery."
+      ],
+      "images": []
+    },
+    {
+      "title": "PublicCockpit",
+      "summary": "Administration and reporting portal for managing the Public rail booking site, products, routes, bookings, enquiries, and communications.",
+      "url": "http://publiccockpit.uk.voyages-sncf.com/Login.aspx",
+      "highlights": [
+        "Client: Voyages-SNCF UK Limited | Role: Technical Architect.",
+        "Environment: ASP.NET, C#, jQuery, SQL Server 2008, SSIS, XML/XSLT, and TDD.",
+        "Designed administration workflows, reporting, product and booking controls, audit trace, customer enquiries, newsletters, and operational management features."
+      ],
+      "images": []
+    },
+    {
+      "title": "Trade (B2B)",
+      "summary": "Agent-facing European rail ticket booking platform with role-based access, credit and cash payments, and operational reporting.",
+      "url": "",
+      "highlights": [
+        "Client: Voyages-SNCF / Rail Europe, UK | Role: Technical Lead - Agile Scrum | Team: 10 | Duration: 48 months.",
+        "Environment: ASP.NET 4.0, C#, MVP, SQL Server 2008 R2, DotNetNuke, JavaScript, jQuery, WCF, and XML/XSLT.",
+        "Led delivery of agent workflows, role-based user management, payment processing, reports, and content management integration."
+      ],
+      "images": []
+    },
+    {
+      "title": "TradeCockpit",
+      "summary": "Administration portal for agency registration, user activation, reporting, booking configuration, audit, and agency management.",
+      "url": "",
+      "highlights": [
+        "Client: Voyages-SNCF UK Limited | Role: Technical Lead.",
+        "Environment: ASP.NET, C#, jQuery, SQL Server 2008, SSIS, XML/XSLT, and TDD.",
+        "Managed agency registration, product and route configuration, booking controls, audit trace, reports, Excel imports, fare-sheet configuration, and agency statistics."
+      ],
+      "images": []
+    },
+    {
+      "title": "TexMex: SLIM",
+      "summary": "Automated student loan processing system managing lenders, guarantors, file generation, and bank processing.",
+      "url": "",
+      "highlights": [
+        "Client: nmstudentloans.org, US | Role: Technical Architect - Agile Scrum | Team: 12 | Duration: 8 months.",
+        "Environment: ASP.NET, C#, WCF, MVC, Log4Net, SQL Server 2005, hMailServer, Ajax Control Toolkit, FxCop, NAnt, JavaScript, and TDD.",
+        "Designed technical solutions and supported automated processing workflows for approved and denied lenders and guarantor file exchange."
+      ],
+      "images": []
+    },
+    {
+      "title": "Credco eCommerce",
+      "summary": "Credit reporting and online payment platform for the mortgage industry with RSA authentication and credit bureau integration.",
+      "url": "http://www.credco.com",
+      "highlights": [
+        "Client: Company product, US | Role: Senior Developer | Team: 10 | Duration: 16 months.",
+        "Environment: ASP.NET, C#, Oracle 10g, Toad, RSA Authentication, Salesforce, Ektron, Ajax Control Toolkit, JavaScript, Skipjack, and Equifax.",
+        "Contributed to TDD, table design, stored procedures, UI design, coding, debugging, code reviews, database development, PL/SQL, and payment integration."
+      ],
+      "images": []
+    },
+    {
+      "title": "Packaging Europe",
+      "summary": "Multilingual directory platform for selling verified European packaging data online and through printed directories.",
+      "url": "",
+      "highlights": [
+        "Client: Packaging Europe Directory, UK | Role: Project Lead | Team: 3 | Duration: 6 months.",
+        "Environment: ASP.NET, C#, SQL Server 2005, Reporting Services, JavaScript, Core AJAX, and Ajax Control Toolkit.",
+        "Led architecture, coding, debugging, payment integration, multilingual workflows, data verification, and reporting."
+      ],
+      "images": []
+    },
+    {
+      "title": "Willusit",
+      "summary": "Parent and sitter network platform with phone-call initiation and online payment through Google Checkout.",
+      "url": "http://www.willusit.com",
+      "highlights": [
+        "Client: Paul Rodman | Role: Project Lead | Team: 2 | Duration: 6 months.",
+        "Environment: ASP.NET, C#, SQL Server 2005, Ifbyphone integration, Google Checkout, Ajax Control Toolkit, and JavaScript.",
+        "Led architecture, coding, debugging, database work, phone integration, and payment integration."
+      ],
+      "images": []
+    },
+    {
+      "title": "MyIntuition",
+      "summary": "School payment and donation platform supporting card and electronic-check payments, reports, and school administration.",
+      "url": "http://www.myintuition.com",
+      "highlights": [
+        "Client: SmartTution LLC, US | Role: Developer | Team: 10 | Duration: 12 months.",
+        "Environment: ASP.NET, C#, SQL Server 2005, Web Services, Reporting Services, ACH Direct, payment gateways, Authorize.Net, Commerce Bank, and JavaScript.",
+        "Developed and debugged ASP.NET code, stored procedures, payment workflows, custom reports, school pages, and donation functionality."
+      ],
+      "images": []
+    },
+    {
+      "title": "ParishPay",
+      "summary": "Donation and transaction automation platform for parishes and churches with card, e-check, coupon, and reporting workflows.",
+      "url": "http://www.parishpay.com",
+      "highlights": [
+        "Client: ParishPay Inc., US | Role: Developer | Team: 8 | Duration: 6 months.",
+        "Environment: VB6, ASP, ASP.NET, SQL Server 2000, reporting, ACH Direct, payment gateways, Authorize.Net, Commerce Bank, and JavaScript.",
+        "Created tables, stored procedures, functions, payment-file processing, transaction automation, and reporting features."
+      ],
+      "images": []
+    },
+    {
+      "title": "Web Marketing and Assessment Tool",
+      "summary": "Web marketing and assessment platform supporting administration, cross-vendor promotion, email campaigns, service plans, news, and payments.",
+      "url": "",
+      "highlights": [
+        "Client: Igenti Inc., US | Role: Developer | Team: 6 | Duration: 4 months.",
+        "Environment: ASP.NET, VB.NET, SQL Server 2000, Web Services, JavaScript, Microsoft Visio, and NUnit.",
+        "Designed UI and coded application workflows, administration features, email promotion, service plans, news, payments, and stored procedures."
+      ],
+      "images": []
+    },
+    {
+      "title": "Measurement Grading System",
+      "summary": "Fabric measurement and pattern grading system that generates size patterns, cutting reports, and GERBER plotter output.",
+      "url": "",
+      "highlights": [
+        "Client: Nancy Kraft Ltd., India | Role: Developer | Team: 3 | Duration: 6 months.",
+        "Environment: VB6, SQL Server 2000, Crystal Reports 8.5, and third-party DBGrid.",
+        "Developed measurement-sheet workflows, reporting, pattern grading, buyer information, and purchase-order tracking."
+      ],
+      "images": []
+    },
+    {
+      "title": "Sales Price Variation System",
+      "summary": "Sales information and price variation tracking application.",
+      "url": "",
+      "highlights": [
+        "Client: Konark International Pvt. Ltd., India | Role: Developer | Team: 3 | Duration: 3 months.",
+        "Environment: VB6, SQL Server 2000, Crystal Reports 8.5, and third-party DBGrid.",
+        "Designed the UI, implemented code-behind workflows, and wrote stored procedures and functions."
+      ],
+      "images": []
     }
   ],
   "volunteer_experience": [
