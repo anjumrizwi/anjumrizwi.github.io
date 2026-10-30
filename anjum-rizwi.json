@@ -146,7 +146,7 @@
       "certified_by": "Anthropic"
     },
     {
-      "name": "Certificate of Completion: Introduction to Agent Skills",
+      "name": "Introduction to Agent Skills",
       "logo": "img/certifications/anthropic.svg",
       "certified_by": "Anthropic"
     },
@@ -171,6 +171,16 @@
       "certified_by": "Simplilearn"
     },
     {
+      "name": "Microsoft Azure Administrator",
+      "logo": "img/certifications/microsoft.svg",
+      "certified_by": "Microsoft"
+    },
+    {
+      "name": "Certified Scrum Master",
+      "logo": "img/certifications/scrumalliance.svg",
+      "certified_by": "Scrum Alliance"
+    },
+    {
       "name": "MCSD: App Builder - Certified 2016",
       "logo": "img/certifications/microsoft.svg",
       "certified_by": "Microsoft"
@@ -189,16 +199,6 @@
       "name": "MCTS: .NET Framework 4, Web Applications",
       "logo": "img/certifications/microsoft.svg",
       "certified_by": "Microsoft"
-    },
-    {
-      "name": "Microsoft Certified: Azure Administrator Associate",
-      "logo": "img/certifications/microsoft.svg",
-      "certified_by": "Microsoft"
-    },
-    {
-      "name": "Certified Scrum Master",
-      "logo": "img/certifications/scrumalliance.svg",
-      "certified_by": "Scrum Alliance"
     }
   ],
   "skills": [
