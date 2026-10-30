@@ -85,22 +85,25 @@
         "Led technical design, performance and security improvements, coding, debugging, testing, and production support."
       ],
       "images": []
-    },
+    }
+  ],
+  "volunteer_experience": [
     {
-      "title": "Medical Report Summarizer and Diet Recommendation Platform",
-      "summary": "Led an internal hackathon project demonstrating practical AI engineering with OpenAI-powered medical report summarization and personalized diet recommendations.",
+      "organization": "Internal Hackathon",
+      "position": "Medical Report Summarizer and Diet Recommendation Platform",
       "url": "",
+      "start_date": "",
+      "end_date": "",
+      "summary": "Led an internal hackathon project demonstrating practical AI engineering with OpenAI-powered medical report summarization and personalized diet recommendations.",
       "highlights": [
         "Applied generative AI and OpenAI integration to transform unstructured medical report content into clear, actionable summaries.",
         "Built support for uploading PDF reports, processing scanned documents, and accepting report content as text.",
         "Sent extracted report content to OpenAI and displayed the generated summary in the application.",
         "Developed a Python-based diet recommendation workflow based on the report content.",
         "Migrated the solution to ASP.NET and C# for enterprise application integration."
-      ],
-      "images": []
+      ]
     }
   ],
-  "volunteer_experience": [],
   "education": [
     {
       "institution": "Indira Gandhi National Open University (IGNOU)",
