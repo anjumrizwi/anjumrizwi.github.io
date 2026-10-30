@@ -255,9 +255,44 @@
   ],
   "interests": [
     {
+      "name": "Artificial Intelligence and Agentic AI",
+      "summary": "Exploring generative AI, autonomous workflows, LLM integrations, and practical AI-assisted solutions.",
+      "images": [
+        {
+          "img_path": "portfolio_media/interest-ai.svg",
+          "caption": "Artificial Intelligence and Agentic AI"
+        }
+      ]
+    },
+    {
+      "name": "Open-Source Technology",
+      "summary": "Learning, experimenting with, and contributing to modern software development tools and platforms.",
+      "images": [
+        {
+          "img_path": "portfolio_media/interest-open-source.svg",
+          "caption": "Open-Source Technology"
+        }
+      ]
+    },
+    {
+      "name": "Technical Learning and Mentoring",
+      "summary": "Sharing knowledge, mentoring developers, and staying current with cloud, architecture, and emerging technologies.",
+      "images": [
+        {
+          "img_path": "portfolio_media/interest-mentoring.svg",
+          "caption": "Technical Learning and Mentoring"
+        }
+      ]
+    },
+    {
       "name": "Solar Energy and Sustainability",
       "summary": "Interested in renewable energy, solar power systems, energy efficiency, and technology-driven approaches to sustainable living.",
-      "images": []
+      "images": [
+        {
+          "img_path": "portfolio_media/interest-solar.svg",
+          "caption": "Solar Energy and Sustainability"
+        }
+      ]
     }
   ],
   "languages": [
