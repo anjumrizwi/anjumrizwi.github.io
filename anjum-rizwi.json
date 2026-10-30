@@ -255,18 +255,9 @@
   ],
   "interests": [
     {
-      "name": "Woodworking",
-      "summary": "",
-      "images": [
-        {
-          "img_path": "portfolio_media/ww1.jpg",
-          "caption": "Chess Board made from Walnut and Maple"
-        },
-        {
-          "img_path": "portfolio_media/ww2.jpg",
-          "caption": "Wooden Necklace from Walnut Scrap"
-        }
-      ]
+      "name": "Solar Energy and Sustainability",
+      "summary": "Interested in renewable energy, solar power systems, energy efficiency, and technology-driven approaches to sustainable living.",
+      "images": []
     }
   ],
   "languages": [
