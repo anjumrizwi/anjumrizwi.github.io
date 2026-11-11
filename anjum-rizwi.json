@@ -81,6 +81,20 @@
   ],
   "projects": [
     {
+      "title": "Loan Document Generation Automation",
+      "summary": "Azure-native, event-driven platform for automating high-volume loan document generation, Mail Merge, DOCX-to-PDF, and PDF-to-PRN processing, leveraging AI-assisted development.",
+      "url": "https://sagent.com/",
+      "highlights": [
+        "Client: Sagent, Dallas, TX | Role: Associate Technical Architect - Agile Scrum | Team: 3+ | Duration: 6 months.",
+        "Environment: ASP.NET Core, C#, Azure App Service, Azure Batch, Azure Service Bus, Azure Blob Storage, Azure Functions, Azure Key Vault, Application Insights, Bicep, Microservices, Claude Code (Generative AI), and Jira.",
+        "Designed and implemented an Azure-native, event-driven document processing architecture using Azure Service Bus, Blob Storage, and Azure Batch.",
+        "Developed independent processing workers for Mail Merge, DOCX-to-PDF, and PDF-to-PRN conversion, with automated message handling, file orchestration and application monitoring through Azure Application Insights.",
+        "Utilized Claude Code (AI Coding Assistant) for code generation, Bicep Infrastructure as Code (IaC), technical documentation, architecture design, and troubleshooting.",
+        "Utilized AI-assisted workflows for Jira task creation, effort estimation, technical planning, and documentation."
+      ],
+      "images": []
+    },
+    {
       "title": "members.holidayinnclub.com",
       "summary": "Reservation booking, account management, dashboard, resort, and call-centre agent platform for Holiday Inn Club Vacations.",
       "url": "https://members.holidayinnclub.com/",
